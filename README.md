@@ -1,5 +1,5 @@
 # searchEngine
-topic: edit a simlpe search engine to collect rss from blogs
+Edit a simlpe search engine to collect rss from blogs
 
 
 #   TodoList
@@ -11,7 +11,7 @@ topic: edit a simlpe search engine to collect rss from blogs
 
 # Structure
 
-Monogodb <-----------------------------------------------
+Monogodb(Metadata) <-----------------------------------------------
 
-Web spider-----> ETL --------> Search Engin <-------  Redis Cache  <------- Service <------ Resource <----- REST API <------ Web Interface
+Web spider(collect agent)-----> ETL(data filter and transform) --------> Search Engine(data source and indexr)<-------  Redis Cache(cache) <------- Service(some service) <------ Resource(rest interface wrapper) <------ Web Interface
 
