@@ -4,11 +4,37 @@
 
 # Project searchEngine
 
-##　@victoryxs
+##@victoryxs
 
 ### Inbox:
 
 - model design and datastore implemt @due(2016-02-01)
+
+### Todo:
+
+### Someday/Maybe:
+
+### Archive:
+
+
+## @HuaHaofeng
+
+### Inbox:
+- web spider
+
+### Todo:
+
+### Someday/Maybe:
+
+### Archive:
+
+
+## @WangWei
+
+
+### Inbox:
+
+- web interface
 
 ### Todo:
 
@@ -18,14 +44,3 @@
 
 ### Archive:
 
-
-
-## @HuaHaofeng
-
-- web spider
-
-
-
-## @WangWei
-
-- web interface
