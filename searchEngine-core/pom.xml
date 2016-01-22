@@ -10,6 +10,18 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>searchEngine-core</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>searchEngine-server</module>
+        <module>searchEngine-service</module>
+        <module>searchEngine-datastore</module>
+        <module>searchEngine-engine</module>
+        <module>searchEngine-cache</module>
+        <module>searchEngine-util</module>
+        <module>searchEngine-plugins</module>
+        <module>searchEngine-app</module>
+        <module>searchEngine-model</module>
+    </modules>
 
 
 </project>

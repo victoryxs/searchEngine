@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="searchEngine-app" />
+        <module name="searchEngine-cache" />
+        <module name="searchEngine-datastore" />
+        <module name="searchEngine-dist" />
+        <module name="searchEngine-engine" />
+        <module name="searchEngine-model" />
+        <module name="searchEngine-plugins" />
+        <module name="searchEngine-server" />
+        <module name="searchEngine-service" />
+        <module name="searchEngine-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="searchEngine" target="1.5" />
+      <module name="searchEngine-app" target="1.5" />
+      <module name="searchEngine-cache" target="1.5" />
+      <module name="searchEngine-core" target="1.5" />
+      <module name="searchEngine-datastore" target="1.5" />
+      <module name="searchEngine-dist" target="1.5" />
+      <module name="searchEngine-engine" target="1.5" />
+      <module name="searchEngine-model" target="1.5" />
+      <module name="searchEngine-plugins" target="1.5" />
+      <module name="searchEngine-server" target="1.5" />
+      <module name="searchEngine-service" target="1.5" />
+      <module name="searchEngine-util" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

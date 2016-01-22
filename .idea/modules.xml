@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/searchEngine.iml" filepath="$PROJECT_DIR$/.idea/searchEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchEngine-agent/searchEngine-agent.iml" filepath="$PROJECT_DIR$/searchEngine-agent/searchEngine-agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchEngine-core/searchEngine-cache/searchEngine-cache.iml" filepath="$PROJECT_DIR$/searchEngine-core/searchEngine-cache/searchEngine-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchEngine-core/searchEngine-core.iml" filepath="$PROJECT_DIR$/searchEngine-core/searchEngine-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchEngine-core/searchEngine-datastore/searchEngine-datastore.iml" filepath="$PROJECT_DIR$/searchEngine-core/searchEngine-datastore/searchEngine-datastore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchEngine-dist/searchEngine-dist.iml" filepath="$PROJECT_DIR$/searchEngine-dist/searchEngine-dist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchEngine-core/searchEngine-engine/searchEngine-engine.iml" filepath="$PROJECT_DIR$/searchEngine-core/searchEngine-engine/searchEngine-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchEngine-core/searchEngine-model/searchEngine-model.iml" filepath="$PROJECT_DIR$/searchEngine-core/searchEngine-model/searchEngine-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchEngine-core/searchEngine-plugins/searchEngine-plugins.iml" filepath="$PROJECT_DIR$/searchEngine-core/searchEngine-plugins/searchEngine-plugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchEngine-core/searchEngine-server/searchEngine-server.iml" filepath="$PROJECT_DIR$/searchEngine-core/searchEngine-server/searchEngine-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchEngine-core/searchEngine-service/searchEngine-service.iml" filepath="$PROJECT_DIR$/searchEngine-core/searchEngine-service/searchEngine-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchEngine-core/searchEngine-util/searchEngine-util.iml" filepath="$PROJECT_DIR$/searchEngine-core/searchEngine-util/searchEngine-util.iml" />
+    </modules>
+  </component>
+</project>
